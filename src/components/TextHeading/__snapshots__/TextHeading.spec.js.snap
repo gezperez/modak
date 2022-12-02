@@ -1,3 +1,20 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`TextHeading shold match snapshot: TextHeading 1`] = `<View />`;
+exports[`TextHeading shold match snapshot: TextHeading 1`] = `
+<Text
+  accessibilityLabel="TXT-undefined"
+  style={
+    Array [
+      Object {
+        "fontSize": 16,
+        "fontWeight": "400",
+      },
+      false,
+      false,
+      undefined,
+      undefined,
+      false,
+    ]
+  }
+/>
+`;

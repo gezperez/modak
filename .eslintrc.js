@@ -18,7 +18,6 @@ module.exports = {
     'no-param-reassign': ['warn'],
     'no-restricted-syntax': ['warn'],
     'no-unused-expressions': ['error'],
-    'no-unused-vars': ['error'],
     'object-shorthand': ['error'],
     'padding-line-between-statements': [
       'error',
@@ -32,6 +31,8 @@ module.exports = {
     'react/jsx-wrap-multilines': ['error'],
     'react-native/no-color-literals': ['error'],
     'sort-imports': 'off',
+    '@typescript-eslint/no-unused-vars': 'error',
+    'no-unused-vars': 'off',
     'simple-import-sort/sort': [
       'error',
       {

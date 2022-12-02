@@ -1,3 +1,3 @@
-import { HomeStackParamList } from './home'
+import { HomeStackParamList } from './stack'
 
 export type RootStackParamList = HomeStackParamList
