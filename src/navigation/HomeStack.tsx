@@ -17,7 +17,7 @@ const HomeStack = () => (
       name="Home"
       component={HomeScreen}
       options={{
-        headerTitle: 'Movak',
+        headerTitle: 'Modak',
       }}
     />
     <Screen
